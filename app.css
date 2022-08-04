@@ -1,5 +1,17 @@
 body {
     margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid #f1f1f1;
+    width: 29%;
+    margin-left: calc(10%/6);
+    padding: 1.2em;
+    font-weight: 700;
+    font-size: 1.5em;
+
 }
 
 img {
